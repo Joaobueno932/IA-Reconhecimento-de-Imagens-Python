@@ -1,10 +1,5 @@
 ### Classificação de glaucoma
-
-# Orientador: Hemerson Pistori
-
-# Aluno: Kevin Nicolas Costantino
-
-# Aluno: João Lucas Bueno
+João Lucas Bueno da Silva Pinheiro
 
 ## Sobre o projeto
 
